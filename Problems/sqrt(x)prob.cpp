@@ -17,3 +17,4 @@ public:
 //THIS ALL WORKS ON GUESSES AND REPEAT THIS FORMULA UNTIL y*y is close to x;
 //EASY METHOD TO APPLY. 
 //y = (y+x/y)/2
+//
