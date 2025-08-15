@@ -1,3 +1,7 @@
+//PALINDROME NUMBER
+//AUTHOR :: PRASHANT MISHRA
+
+
 class Solution {
 public:
     bool isPalindrome(int x) {
