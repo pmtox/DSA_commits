@@ -19,3 +19,8 @@ public:
         } return count;
     }
 };
+
+
+//STILL THIS IS A BRUTE FORCE WAY OF DOING this problem but it has TLE error at LC.
+//still will update this after learning new concepts.
+//THANKS!
