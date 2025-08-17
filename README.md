@@ -1,2 +1,3 @@
 # DSA_commits
-My daily Data Structures &amp; Algorithms practice -- organized by topic for learning and revision.
+My daily Data Structures.
+Will be posting the Problems which i solve so that this helps in revision.
