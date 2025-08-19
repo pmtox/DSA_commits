@@ -1,6 +1,7 @@
 //HELIUM3 PROBLEM-CODECHEF
 //NAME : PRASHANT MISHRA
-
+//KEY IDEA: Compare a*b ≤ x*y to check if production meets requirement.
+//TIME TAKEN: ~5 minutes solo
 
 #include <bits/stdc++.h>
 using namespace std;
