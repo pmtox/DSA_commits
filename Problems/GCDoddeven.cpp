@@ -1,5 +1,6 @@
 //GCD of Odd and Even Sums PROBLEM
 //NAME:PRASHANT MISHRA
+//LEETCODE-PROBLEM
 
 
 class Solution {
