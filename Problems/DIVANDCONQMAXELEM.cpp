@@ -7,7 +7,6 @@
 using namespace std;
 
 
-
 int mSS(vector<int>&arr , int low, int high){
 	if(low == high) return arr[low];
 	int mid=(high+low)/2;
