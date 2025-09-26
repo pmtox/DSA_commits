@@ -1,3 +1,6 @@
+//Check If The Array Is Sorted
+//NAME: PRASHANT MISHRA
+
 class Solution {
 public:
     bool check(vector<int>& nums) {
