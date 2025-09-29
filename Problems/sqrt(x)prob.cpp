@@ -13,6 +13,7 @@ public:
     }
 };
 
+
 //I HAVE USED THE NEWTON'S METHOD to do this question.
 //THIS ALL WORKS ON GUESSES AND REPEAT THIS FORMULA UNTIL y*y is close to x;
 //EASY METHOD TO APPLY. 
