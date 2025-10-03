@@ -16,3 +16,4 @@ int longestSub(vector<int> &arr , int k){
     if(right<n) sum+= arr[right];
   } return maxLen;
 }
+
