@@ -5,6 +5,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
 void chk(vector<int>& nums){
     int count0 = 0, countNeg = 0;
     for (int x : nums) {
