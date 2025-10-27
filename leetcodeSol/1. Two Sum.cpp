@@ -21,6 +21,7 @@ public:
 };
 //above class was written at @leetcode 
 
+
 int main() {
     vector<int> nums = {8, 6, 19, 15};
     int target = 25;
