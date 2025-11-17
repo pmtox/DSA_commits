@@ -2,7 +2,6 @@
 //NAME:PRASHANT MISHRA
 //LEETCODE-PROBLEM
 
-
 class Solution {
 public:
     int gcdOfOddEvenSums(int n) {
