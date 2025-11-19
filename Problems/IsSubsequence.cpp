@@ -1,7 +1,6 @@
 //Is Subsequence PROBLEM
 //NAME: PRASHANT MISHRA
 
-
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
