@@ -1,7 +1,6 @@
 //1929 – Concatenation of Array.
 //Leetcode Easy
 
-
 class Solution {
 public:
     vector<int> getConcatenation(vector<int>& nums) {
