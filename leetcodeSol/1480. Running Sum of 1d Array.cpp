@@ -1,7 +1,6 @@
 //1480. Running Sum of 1d Array
 //LEETCODE EASY
 
-
 class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
