@@ -1,7 +1,6 @@
 //128. Longest Consecutive Sequence
 //LeetCode Medium
 
-
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
