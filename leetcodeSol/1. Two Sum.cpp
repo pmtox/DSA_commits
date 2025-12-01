@@ -1,7 +1,6 @@
 //TWO SUM PROBLEM
 //AUTHOR :: PRASHANT MISHRA
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
