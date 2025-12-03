@@ -8,6 +8,7 @@ void isSame(vector<char> ch1 , vector<char>ch2){
         for (int f : freq)
         if (f != 0) same = false;
         cout << (same ? "YES" : "NO") << endl;
+    
 }
 int main(){
     long long t ; cin>>t;
@@ -23,4 +24,5 @@ int main(){
         isSame(ch1 , ch2);
     }
     return 0;
+
 }
