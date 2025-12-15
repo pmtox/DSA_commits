@@ -2,7 +2,6 @@
 //NUMBER OF PERFECT PAIRS
 //NAME : PRASHANT MISHRA
 
-
 class Solution {
 public:
     long long perfectPairs(vector<int>& nums) {
