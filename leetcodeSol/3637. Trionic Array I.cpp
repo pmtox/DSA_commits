@@ -1,6 +1,7 @@
 //3637. Trionic Array I
 //Easy Category Problem
 
+
 class Solution {
 public:
     bool isTrionic(vector<int>& nums) {
