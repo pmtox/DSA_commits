@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 int main() {
     long long t;
     cin >> t;
@@ -24,3 +25,4 @@ int main() {
     }
     return 0;
 }
+
