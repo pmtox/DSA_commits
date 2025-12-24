@@ -1,7 +1,6 @@
 //509. Fibonacci Number
 //Leetcode Easy
 
-
 class Solution {
 public:
     int fib(int n) {
