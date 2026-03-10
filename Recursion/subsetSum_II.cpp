@@ -3,10 +3,10 @@ using namespace std;
 
 void fxn(int idx , vector<int>& arr , vector<int> &ds , vector<vector<int>> &ans1){
     ans1.push_back(ds);
-    for(int i = 0 ; i < arr.size(); i++){
+    for(int i = idx ; i < arr.size(); i++){
         if(idx != i && arr[i] == arr[i-1]) continue;
         ds.push_back(arr[i]);
-        fxn(idx+1 , arr , ds , ans1);
+        fxn(i+1 , arr , ds , ans1);
         ds.pop_back();
     }
 }
